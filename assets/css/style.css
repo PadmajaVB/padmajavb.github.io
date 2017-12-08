@@ -85,6 +85,10 @@ a span {
     box-sizing: border-box;
     /*    direction: rtl;*/
 }
+#new-board-btn {
+    white-space: normal;
+
+}
 p {
     margin: 0 0 30px;
 }
