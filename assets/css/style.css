@@ -662,15 +662,15 @@ textarea::-ms-input-placeholder
 	color: #c5ccd3;
 }
 
-#achievements {
+#achivements {
 	padding: 0 0 120px 0;
 }
-#achievements .section-title {
+#achivements .section-title {
 	background: #444 url(../images/Github.png) center center no-repeat fixed;
 	background-size: cover;
 	margin-bottom: 50px;
 }
-#achievements .section-title h2 {
+#achivements .section-title h2 {
 	color: #c5ccd3;
 }
 
@@ -802,17 +802,17 @@ ol.type li a:hover {
 }
 
 
-#achievements .portfolio-item {
+#achivements .portfolio-item {
   margin: 0 0 15px;
   right: 0;
 }
-#achievements .portfolio-item .portfolio-link {
+#achivements .portfolio-item .portfolio-link {
   display: block;
   position: relative;
   max-width: 400px;
   margin: 0 auto;
 }
-#achievements .portfolio-item .portfolio-link .caption {
+#achivements .portfolio-item .portfolio-link .caption {
   /*background: rgba(24, 188, 156, 0.9);*/
   	background: -moz-linear-gradient(top, rgba(142,182,64,1) 50%, rgba(119,153,54,1) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(top, rgba(142,182,64,1) 50%, rgba(119,153,54,1) 100%); /* Chrome10-25,Safari5.1-6 */
@@ -826,10 +826,10 @@ ol.type li a:hover {
   -webkit-transition: all ease 0.5s;
   -moz-transition: all ease 0.5s;
 }
-#achievements .portfolio-item .portfolio-link .caption:hover {
+#achivements .portfolio-item .portfolio-link .caption:hover {
   opacity: 1;
 }
-#achievements .portfolio-item .portfolio-link .caption .caption-content {
+#achivements .portfolio-item .portfolio-link .caption .caption-content {
   position: absolute;
   width: 100%;
   height: 20px;
@@ -839,14 +839,14 @@ ol.type li a:hover {
   margin-top: -12px;
   color: #c5ccd3;
 }
-#achievements .portfolio-item .portfolio-link .caption .caption-content i {
+#achivements .portfolio-item .portfolio-link .caption .caption-content i {
   margin-top: -12px;
 }
-#achievements .portfolio-item .portfolio-link .caption .caption-content h3,
-#achievements .portfolio-item .portfolio-link .caption .caption-content h4 {
+#achivements .portfolio-item .portfolio-link .caption .caption-content h3,
+#achivements .portfolio-item .portfolio-link .caption .caption-content h4 {
   margin: 0;
 }
-#achievements * {
+#achivements * {
   z-index: 2;
 }
 
